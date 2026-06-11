@@ -1,0 +1,85 @@
+*{
+    margin:0;
+    padding:0;
+}
+.head{
+    height:70px;
+    padding: 20px 400px;
+    background-color:skyblue;
+}
+.head h1{
+    margin-bottom:10px;
+}
+.head a{
+     margin:30px;
+   padding:0 10px;
+}
+.allcontent{
+    display:flex;
+    gap:300px;
+    padding-left:20px;
+    margin-bottom:20px;
+}
+.ul h4{
+margin-left:-30px;
+}
+.ol h4{
+margin-left:-30px;
+}
+.ul_ol{
+    margin-top:20px;
+    margin-left:100px;
+    display:flex;
+    gap:100px;
+}
+.content{
+    margin-top:20px;
+}
+.detail{
+    margin-top:50px;
+    padding-top:20px;
+    padding-left:10px;
+    height:170px;
+    width:300px;
+    background-color:rgba(12, 251, 76, 0.2)
+}
+.images{
+    padding-left:20px;
+}
+.store{
+    display:flex;
+    gap:50px;
+    margin-bottom: 10px;
+}
+.sampleimage img{
+    margin-top:20px;
+    height:200px;
+    width:300px;
+}
+.video video{
+    margin-top:5px;
+    height:200px;
+    width:300px;
+}
+fieldset{
+    margin-left:20px;
+      height:122px;
+    width:500px;
+    margin-bottom:20px; 
+}
+table th{
+    background-color: skyblue;
+}
+table th td{
+    border:1px solid black;
+   
+}
+.contact h1{
+    margin-bottom:5px;
+}
+.footer{
+    text-align: center;
+    padding-top:20px;
+    height:50px;
+    background-color:skyblue;
+}
